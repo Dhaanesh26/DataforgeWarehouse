@@ -1,7 +1,7 @@
 /* 
 ============================================================
 Create Database and Schemas
-============================================================
+============================================================ 
 Script purpose:
   This script creates a new database called "DataWarehouse". It is advisable to check if the database already exists in sql server.
   If it exists, it should be dropped and recreated. The script sets up three schemas within the database: 'bronze', 'silver' and 'gold'
